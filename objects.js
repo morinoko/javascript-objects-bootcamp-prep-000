@@ -1,1 +1,1 @@
-var playlist = {};
+var playlist = { 'Tegan and Sara': 'The Con'};
